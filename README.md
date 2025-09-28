@@ -1,4 +1,5 @@
-# Dating-App Social Support Research
+# The Swipe for Solace:  
+How Social Support and Emotional Needs Shape Dating App Use
 
 This study explores whether **dating apps function as a strategy to compensate for deficits in emotional support and intimacy** in contemporary society.  
 We analyze how individuals’ levels of social support shape their **dating-app usage and experiences** using a **mixed-methods approach**:
@@ -23,3 +24,4 @@ Raw survey data are **not included** in this repository due to privacy and confi
 
 ## License
 This repository is provided for academic and non-commercial purposes only.
+
