@@ -15,7 +15,7 @@ We analyze how individuals’ levels of social support shape their **dating-app 
 - `Rcode_Health_Team.R` — Main R scripts for survey analysis and figures  
 - `Figures_Graphs/` — Output graphs and visualization files  
 - `Survey_Codebook.xlsx` — Codebook describing survey variables  
-- `The Swipe for Solace_...pdf` — Full research paper draft  
+- `The Swipe for Solace_...pdf` — Full research paper 
 
 ⚠️ **Data Notice:**  
 Raw survey data are **not included** in this repository due to privacy and confidentiality restrictions.
@@ -23,5 +23,6 @@ Raw survey data are **not included** in this repository due to privacy and confi
 
 ## License
 This repository is provided for academic and non-commercial purposes only.
+
 
 
